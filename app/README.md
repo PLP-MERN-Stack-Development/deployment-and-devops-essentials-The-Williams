@@ -179,5 +179,10 @@ Node.js
 
 Mongoose
 
-License
+
+
+Deployment for server(Backend): https://deployment-and-devops-essentials-the.onrender.com/
+Deployment for cleint(Frontend): 
+
+## License
 This project is for educational purposes as part of the MERN Stack Integration assignment.
