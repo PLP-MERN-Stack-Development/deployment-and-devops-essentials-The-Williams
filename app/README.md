@@ -181,7 +181,7 @@ Mongoose
 
 
 
-Deployment for server(Backend): https://deployment-and-devops-essentials-the.onrender.com/
+Deployment for server(Backend): https://deployment-and-devops-server.onrender.com
 Deployment for cleint(Frontend): 
 
 ## License

@@ -1,5 +1,5 @@
 import usePosts from "../hooks/usePosts";
-import PostCard from "../components/postcard.jsx";
+import PostCard from "../components/PostCard.jsx";
 
 export default function Home() {
   const { data, loading } = usePosts(1, 10);
